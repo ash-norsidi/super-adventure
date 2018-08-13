@@ -1,0 +1,5 @@
+D:\GitHub\super-adventure\SuperAdventure\Engine\bin\Debug\Engine.dll
+D:\GitHub\super-adventure\SuperAdventure\Engine\bin\Debug\Engine.pdb
+D:\GitHub\super-adventure\SuperAdventure\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+D:\GitHub\super-adventure\SuperAdventure\Engine\obj\Debug\Engine.dll
+D:\GitHub\super-adventure\SuperAdventure\Engine\obj\Debug\Engine.pdb
